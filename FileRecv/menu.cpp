@@ -18,6 +18,7 @@ void menu()
 	printf("					  5.添加路由器						  \n");
 	printf("					  6.退出系统						  \n");
 	printf("					  请输入你的选择（1~6）                 \n");
+	printf("test");
 	scanf("%d", &p);
 	if (p < 1 || p>6)
 	{
